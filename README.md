@@ -17,7 +17,7 @@
 
 ## 📌 Projects
 
-* 🔹 Django Blog App (https://github.com/Kristianjayl/Library-System)– A Library System built with Django (🚧 In Progress)
+* 🔹 Library System (https://github.com/Kristianjayl/Library-System)– A Library System built with Django (🚧 In Progress)
 
 
 ---
